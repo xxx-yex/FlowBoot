@@ -31,3 +31,8 @@ mybatis-plus:
 logging:
   level:
     com.flowboot: DEBUG
+
+flowboot:
+  jwt:
+    secret: FlowBootSecretKeyForJwtTokenGenerationMustBeLongEnough2024
+    expire: 7200000

@@ -21,6 +21,10 @@
             <artifactId>flowboot-common</artifactId>
         </dependency>
         <dependency>
+            <groupId>com.flowboot</groupId>
+            <artifactId>flowboot-framework</artifactId>
+        </dependency>
+        <dependency>
             <groupId>com.baomidou</groupId>
             <artifactId>mybatis-plus-spring-boot3-starter</artifactId>
         </dependency>
